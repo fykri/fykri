@@ -26,7 +26,7 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" height="32" alt="Chart.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 8px"></div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
  **<h3 align="left">GitHub Stats</h3>**
 
@@ -44,10 +44,29 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=fykri&repo=&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
 </p>
 
-<h3 align="left">Game</h3>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fykri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ###
 
 <img src="https://raw.githubusercontent.com/fykri/fykri/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+# 💫 About Me:
+hh
+
+
+# 💻 Tech Stack:
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fykri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fykri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fykri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fykri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
