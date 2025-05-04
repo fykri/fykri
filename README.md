@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**fykri/fykri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![fykri](image/github-header-image.png)
 
 Here are some ideas to get you started:
 
