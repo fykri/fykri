@@ -51,22 +51,3 @@
 <img src="https://raw.githubusercontent.com/fykri/fykri/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-# 💫 About Me:
-hh
-
-
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fykri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fykri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fykri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fykri&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
