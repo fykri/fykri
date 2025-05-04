@@ -44,15 +44,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=fykri&repo=&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
 </p>
 
-<p align="left">Game</p>
+<h3 align="left">Game</h3>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fykri/fykri/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fykri/fykri/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fykri/fykri/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/fykri/fykri/output/snake.svg" alt="Snake animation" />
 
 ###
-
